@@ -28,6 +28,7 @@ variable "key-name" {
     default = "us-east-1"
   
 }
+
 variable "backupr-retention" {
     type = number
     default = "7"
